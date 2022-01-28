@@ -10,4 +10,6 @@ Copyright (C) RongTao, All right reserve.
 - 💞️ I’m looking to collaborate on [libcareplus](https://github.com/Rtoax/libcareplus), [test-linux](https://github.com/Rtoax/test-linux) and [more](https://github.com/Rtoax).
 - 📫 How to reach me [GitHub](https://github.com/Rtoax), [CSDN](https://rtoax.blog.csdn.net/), [Gitee](https://gitee.com/rtoax) and 哆啦Linux梦.
 
+![哆啦Linux梦](fwi.png)
+
 各向同性相对于各向异性来说，误差相对较大，但是在各向异性反演过程中，需要考虑额外的参数场，这本就是鸡生蛋诞生记的问题。
